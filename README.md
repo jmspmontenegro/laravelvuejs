@@ -3,7 +3,7 @@
 This repository is simple but helps me to remember the easy steps to starting a project Laravel + Vue.js.
 
 
-## ❤ Instaling Laravel and Vue.js with Laravel/ui
+## ❤ Installing Laravel and Vuejs with Laravel/ui
 
 - Create the Laravel project on the last version:
 ```
