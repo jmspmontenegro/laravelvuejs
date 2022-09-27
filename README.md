@@ -1,6 +1,6 @@
 ## ❓ About this project
 
-This repository is simple but helps me to remember the easy steps to starting a project Laravel + Vue.js.
+Hi! This repository is simple but helps me to remember the easy steps to starting a project Laravel + Vue.js.
 
 
 ## ❤ Installing Laravel and Vuejs with Laravel/ui
